@@ -1,2 +1,2 @@
-# LAB3
-C# basic program
+# Chatting program 
+Swing | Socket
